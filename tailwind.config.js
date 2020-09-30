@@ -11,6 +11,9 @@ module.exports = {
       colors: {
         gold: '#c4b423',
       },
+      fontFamily: {
+        'helvet': 'Helvetica, Arial, sans-serif',
+      }
     },
   },
   variants: {},
